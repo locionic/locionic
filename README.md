@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Locionic</h2>
-<h3>An oldman who loves programming</h3>
+<h3>A programmer cat loves programming, developing and designing</h3>
 
 - 🔭 I'm currently working on [Portfolio & Blog](https://public-portfolio-blog-production.up.railway.app/portfolio)
 
