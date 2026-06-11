@@ -1,13 +1,13 @@
 <h2>Hi 👋, I'm Locionic</h2>
 <h3>A programmer cat loves programming, developing and designing</h3>
 
-- 🔭 I'm currently working on [Portfolio & Blog](https://public-portfolio-blog-production.up.railway.app/portfolio)
+- 🔭 I'm currently working on [Portfolio & Blog](https://www.locionic.com/portfolio)
 
 - 🌱 I'm currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://public-portfolio-blog-production.up.railway.app/portfolio](https://public-portfolio-blog-production.up.railway.app/project)
+- 👨‍💻 All of my projects are available at [https://www.locionic.com/portfolio](https://www.locionic.com/project)
 
-- 📝 I regularly write articles on [https://public-portfolio-blog-production.up.railway.app/blog](https://public-portfolio-blog-production.up.railway.app/blog)
+- 📝 I regularly write articles on [https://www.locionic.com/blog](https://www.locionic.com/blog)
 
 - 💬 Ask me about **python, vue, react, django, nuxt.js, next.js**
 
