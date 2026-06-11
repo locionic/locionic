@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.locionic.com/portfolio](https://www.locionic.com/project)
 
-- 📝 I regularly write articles on [https://www.locionic.com/blog](https://www.locionic.com/blog)
+- 📝 I regularly write articles on [https://www.locionic.com/en/blog](https://www.locionic.com/en/blog)
 
 - 💬 Ask me about **python, vue, react, django, nuxt.js, next.js**
 
