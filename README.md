@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.locionic.com/portfolio](https://www.locionic.com/project)
+- 👨‍💻 All of my projects are available at [https://www.locionic.com/project](https://www.locionic.com/project)
 
 - 📝 I regularly write articles on [https://www.locionic.com/en/blog](https://www.locionic.com/en/blog)
 
