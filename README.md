@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, vue, react, django, nuxt.js, next.js**
 
-- 📫 How to reach me **hongloc2206@gmail.com**
+- 📫 How to reach me **contact@locionic.com**
 
 <h3>Languages and Tools:</h3>
 
