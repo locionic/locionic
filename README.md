@@ -12,7 +12,7 @@ tracking developer utilities.
 ---
 
 ### 🛠️ Interactive Developer Tools                                                                                                                                                        ]
-]
+
 Zero-install, client-side developer utilities running 100% in your browser:
 
 - **[Next.js Hydration Error Debugger](https://www.locionic.com/en/tools/hydration-debugger)** - Instant root-cause diagnosis and code fixes for Minified React Error #418, #423, and
